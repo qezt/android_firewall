@@ -1,3 +1,17 @@
+# README
+
+
+This is a fork of https://github.com/skullone/android_firewall.
+
+Changes made:
+
+* gradle build ported (in directory `as')
+* Multiple language support removed. Some translations are too buggy to build. I will bring them back to live later.
+
+
+# Original README
+
+
 This is a fork of the Droidwall application.  The original code is located here:  http://code.google.com/p/droidwall/     My code is located here:  http://github.com/skullone/android_firewall
 
 Changelog:
